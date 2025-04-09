@@ -1,3 +1,5 @@
 links/
 .ipynb_checkpoints/
 pandas/
+tweet_eval_data/
+data/
