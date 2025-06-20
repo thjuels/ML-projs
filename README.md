@@ -3,3 +3,4 @@ A collection of the ML projects I've worked on, you'll notice that some of the f
 2. Learn pandas
 3. Iris-classification
 4. byo linear regression
+5. image classification (in-progress)
